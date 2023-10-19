@@ -1,9 +1,8 @@
 import React from 'react'
-import "./global.css"
 
 const App = () => {
     return (
-        <div>App</div>
+        <div className='text-red-100'>App</div>
     )
 }
 
